@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero {
+  position: relative;
+  height: 100vh; /* full screen */
+  background: url("your-image.jpg") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(0, 0, 0); /* black transparent overlay */
+  clip-path: polygon(0 0, 70% 0, 50% 100%, 0% 100%);
+  clip-path: polygon(28% 0, 100% 0, 100% 100%, 65% 100%);
+}
+
+.header {
+  height: 100px;
+  background: white;
+  position: relative;
+  border: 1px solid red;
+
+  .overlay1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    clip-path: polygon(38% 0, 100% 0, 100% 100%, 28% 100%);
+  }
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}

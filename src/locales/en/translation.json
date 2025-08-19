@@ -1,0 +1,29 @@
+{
+  "headerLink": [
+    "Home",
+    "Services",
+    "Gallery",
+    "Blog",
+    "About",
+    "Areas We Serve",
+    "Contact",
+    "Get A Quote"
+  ],
+  "lang": "Language",
+  "hero": [
+    {
+      "title": "Deck Repaire & Care",
+      "desc": "Unique finishing methode that outlast the conventional ones. Getting a better offer than us? Share with us the written quote and we will beat the quote by 10%"
+    },
+    {
+      "title": "Professional Deck Installation",
+      "desc": "We specialize in building strong, durable, and stylish decks that perfectly match your home. Our expert team ensures long-lasting quality with a finish that stands out."
+    },
+    {
+      "title": "Deck Maintenance & Restoration",
+      "desc": "From cleaning and sealing to complete restoration, we keep your deck looking brand new. Protect your investment and extend its life with our proven maintenance solutions."
+    }
+  ],
+  "heroButton": "Get A Quote",
+  "about": "About us"
+}

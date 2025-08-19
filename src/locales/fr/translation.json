@@ -1,0 +1,30 @@
+{
+  "headerLink": [
+    "Accueil",
+    "Services",
+    "Galerie",
+    "Blog",
+    "À propos",
+    "Zones que nous servons",
+    "Contact",
+    "Demander un devis"
+  ],
+  "hero": [
+    {
+      "title": "Réparation et Entretien de Terrasse",
+      "desc": "Une méthode de finition unique qui dure plus longtemps que les méthodes conventionnelles. Vous avez une meilleure offre que la nôtre ? Montrez-nous le devis écrit et nous battrons ce prix de 10%."
+    },
+    {
+      "title": "Installation Professionnelle de Terrasse",
+      "desc": "Nous sommes spécialisés dans la construction de terrasses solides, durables et élégantes qui s’adaptent parfaitement à votre maison. Notre équipe garantit une qualité durable avec une finition exceptionnelle."
+    },
+    {
+      "title": "Entretien et Restauration de Terrasse",
+      "desc": "Du nettoyage au traitement complet, nous gardons votre terrasse comme neuve. Protégez votre investissement et prolongez sa durée de vie grâce à nos solutions d’entretien éprouvées."
+    }
+  ],
+  "heroButton": "Demander un devis",
+  "lang": "Langue",
+  "welcome": "Bienvenue sur mon site web",
+  "about": "À propos de nous"
+}
